@@ -1,7 +1,7 @@
 
 
 <img align="center" height="auto"
-src="https://i.imgur.com/GVW7aoD.jpeg">
+src="https://i.imgur.com/1DkLGVk.jpeg">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=K+A+N+G+O+X+M+D+▇)](https://git.io/typing-svg)
 <br>
@@ -67,6 +67,9 @@ Click the button below to fork KANGO-XMD Repository to your GitHub account:
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/_RsRny?referralCode=wvGQ0H)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 <details>
 <summary>𝘋𝘌𝘗𝘓𝘖𝘠 𝘛𝘖 𝘏𝘌𝘙𝘖𝘒𝘜, 𝘔𝘌𝘛𝘏𝘖𝘋 2</summary>
@@ -193,6 +196,13 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 ```
 </details>
+
+## Credits
+
+- [Hector](https://github.com/OfficialKango)
+- [Baileys](https://github.com/WhiskeySockets)
+- [Cypher-X](https://github.com/Dark-Xploit) 
+- [Matrix](https://github.com/Matri199)
 
 ##
 <h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
